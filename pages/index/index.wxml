@@ -1,0 +1,2 @@
+<!--index.wxml-->
+<i-button bind:click="handleClick">默认按钮</i-button>
